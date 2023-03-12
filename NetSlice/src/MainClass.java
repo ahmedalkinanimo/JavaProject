@@ -15,7 +15,7 @@ public class MainClass {
 		}
 		IPAddress IP1=new IPAddress(readIp);
 		System.out.println(IP1);
-			
+		System.out.println("---------------------------------------------");	
 		in.close();
 	}
 }
